@@ -83,3 +83,10 @@ Execute the code cells in the notebooks or run the Python scripts to reproduce t
 
 ### Conclusion
 The README file demonstrates that the KNN classifier, particularly with k=9, performs outstandingly well on the Iris dataset, accurately classifying all iris flowers into their respective categories without making any mistakes. This comprehensive evaluation through visualizations, scoring metrics, and the confusion matrix helps in understanding and validating the model's effectiveness in classifying iris flowers
+
+
+### Additional Notes:
+
+The code comments and markdown sections offer comprehensive explanations for each step of the analysis.
+All the generated plots and tables are stored in the "images" folder within the current directory.
+The datasets utilized for both the project and tasks are saved in the "data" folder within the same directory.
